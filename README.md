@@ -7,9 +7,9 @@
 
 ## Exploring
 - LLMs
-- VectorDBs
-- LamaIndex
+- Deep Learning
 - LangChain
+- Robotics
 
 
 
