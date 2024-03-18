@@ -32,7 +32,8 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <!-- tensorflow -->
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>
-<a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcEwwQGAwQGAwQGAwQGAwQGAwQGAwQGAwQGAwQGAwQGAwQGDqlTyyAAAAC3RSTlMAoBZV20KSX4P5ynQcKagAAACpSURBVDiNzVM5FkQhCAuI+/3vO6Nx62g/VV6EsAiAirWMZcWsbJybiQLahyVyNrARp/mgkL7AiCGeegzswqBFyiavs6ERxKvKfJG4Lc+KR3amQ93KI6ySQxhcINa6xTRHHAvh4pgVX7Es6RQTRU7FmmSOz57W5Axytfz/l8LhMP6ZKojL/otwBJZE2H/hOrgp3CL9Nj9h3sJ4K+curbv27uG4p+cer3f+P4pxD0k01OHsAAAAAElFTkSuQmCC" alt="tensorflow" width="40" height="40"/> </a></p>
+<a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="tensorflow" width="40" height="40"/> </a></p>
 
 ![](https://komarev.com/ghpvc/?username=ChandanVK6&color=blue)
+
 
