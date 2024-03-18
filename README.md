@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi!👋+I'm+Chandan+VK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi!👋+I'm+Chandan+VK)](https://git.io/typing-svg)
 
 
 📫 How to reach me: Drop a mail to chandanvk002@gmail.com<br>
